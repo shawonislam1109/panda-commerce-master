@@ -1,0 +1,32 @@
+.section-1{
+        background-color: rgb(226, 219, 219);
+        
+}
+
+.bg-color-all{
+        background-image: linear-gradient(rgb(146, 2, 115) , rgb(236, 119, 178));
+        color: white;
+        font-weight: 500;
+}
+.sec-color-2{
+        background-color:  #198754;
+         margin-top:  50px;
+         margin-bottom: 50px;
+         padding: 50px 0;
+}
+.btn-color{
+        background-image: linear-gradient(rgb(146, 2, 115) , rgb(236, 119, 178));
+        color: white;
+        font-weight: 500;
+}
+.side-bar-1{
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  max-width:  40%;
+
+}
+.side-bar-2{
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+        max-width:20%;
+}
